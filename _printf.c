@@ -1,6 +1,6 @@
 #include "main.h"
 
-voif print_buffer(char buffer[], int *buff_ind);
+void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - analogous with the printf function
  * @format: format
